@@ -1,0 +1,30 @@
+{
+  "name": "SpaaSDK",
+  "version": "0.1.0",
+  "summary": "A short description of SpaaSDK.",
+  "description": "Add long description of the pod here.",
+  "homepage": "https://spaa.hiliad.com/",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BrikerMan": "eliyar917@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/BrikerMan/SpaaSDK-Pod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "vendored_frameworks": "SpaaSDK.framework",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 4.0"
+    ],
+    "SDWebImage": [
+      "~> 5.0"
+    ]
+  }
+}
